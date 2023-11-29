@@ -20,16 +20,12 @@ mobile
 
 other
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-
+ [블로그](https://monsterhunter.tistory.com/)
 
 </details>
 
-<summary>
-:notebook: [블로그](https://monsterhunter.tistory.com/)
-</summary>
+:notebook: [Blog](https://monsterhunter.tistory.com/)
 
+:pencil: [portfolio](https://www.miricanvas.com/v/1253y7b)
 
-<summary>
-:pencil: [포트폴리오](https://www.miricanvas.com/v/1253y7b)
-</summary>
 </i>
