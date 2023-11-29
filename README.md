@@ -24,4 +24,12 @@ other
 
 </details>
 
+<summary>
+:notebook: [블로그](https://monsterhunter.tistory.com/)
+</summary>
+
+
+<summary>
+:pencil: [포트폴리오](https://www.miricanvas.com/v/1253y7b)
+</summary>
 </i>
