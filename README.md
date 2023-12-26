@@ -26,7 +26,7 @@ other
 
 :notebook: [Blog](https://monsterhunter.tistory.com/)
 
-:pencil: [portfolio](https://www.miricanvas.com/v/1253y7b)
+<!--:pencil: [portfolio](https://www.miricanvas.com/v/1253y7b)-->
 
 <br>
 </i>
