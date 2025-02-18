@@ -24,7 +24,7 @@ other
 
 <br>
 
-:notebook: [Blog](https://ltsblolg.netlify.app/))
+:notebook: [Blog](https://ltsblolg.netlify.app/)
 
 <!--:pencil: [portfolio](https://www.miricanvas.com/v/1253y7b)-->
 
